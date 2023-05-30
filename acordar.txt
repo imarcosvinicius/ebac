@@ -1,1 +1,12 @@
-
+INICIO
+  Abrir os olhos;
+  Desligar o despertador;
+  Ir ao banheiro;
+  Urinar no vaso sanitário;
+  Escovar os dentes na pia;
+  Lavar o rosto;
+  SE Estiver com fome
+    Ir a cozinha e preparar o café;
+  SE NÂO
+    Tomar banho;
+  Se arrumar para o trabalho;
