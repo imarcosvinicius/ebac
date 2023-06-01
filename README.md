@@ -1,2 +1,2 @@
-# ex-ebac
-Resolução de exercício do modulo 6
+# Formação EBAC Especialista Back-End Java
+Repositório onde serão salvos códigos e exercícios da formação.
