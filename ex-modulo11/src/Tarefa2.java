@@ -14,6 +14,7 @@ public class Tarefa2 {
         List<String> sexoMasculino = new ArrayList<>();
         List<String> sexoFeminino = new ArrayList<>();
 
+        // Separando os de lista nomes de acordo com o sexo
         for (String listaNome : listaNomes) {
             if (listaNome.endsWith("F")) {
                 sexoFeminino.add(listaNome);
